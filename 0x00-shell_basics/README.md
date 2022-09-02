@@ -1,1 +1,1 @@
-script that changes the working directory to the user’s home directory
+3rd try on qu2
