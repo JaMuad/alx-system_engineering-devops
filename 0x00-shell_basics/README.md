@@ -1,1 +1,1 @@
-3rd try on qu2
+Display current directory contents in a long format
